@@ -32,8 +32,9 @@ body {
 
 /* Homepage Styles */
 #homepage {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+  background: url('https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg') center/cover no-repeat;
+  color: white;
+  position: relative;
 }
 
 .hero-title {
@@ -472,3 +473,4 @@ body.dark-mode .form-control:focus {
 body.dark-mode .dynamic-entry {
     background: #1a1a1a;
 }
+
